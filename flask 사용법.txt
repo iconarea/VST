@@ -1,0 +1,6 @@
+cd /home/khh/~work/PY/
+
+[root@localhost ~]# export FLASK_APP=beautiful_weather.py
+[root@localhost ~]# export FLASK_ENV=developement
+[root@localhost ~]# flask run
+
